@@ -1,0 +1,23 @@
+--------⚝ 𝑺𝑰𝑳𝑮𝑰 𝑼𝑺𝑬𝑹𝑩𝑶𝑻 ⚝ ΣRROR--------
+
+Tarix: 2025-10-12 05:15:51
+Qrup ID: 7933547964
+Göndərən istifadəçinin ID: 7933547964
+
+Xəta səbəbi:
+.spam
+
+Geri izləmə məlumatı:
+Traceback (most recent call last):
+  File "/root/SilgiUserbot/userbot/events.py", line 70, in wrapper
+    await func(check)
+  File "/root/SilgiUserbot/userbot/modules/spammer.py", line 30, in spammer
+    counter = int(messageSplit[1])
+                  ~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+Xəta mətni:
+list index out of range
+
+--------⚝ 𝑺𝑰𝑳𝑮𝑰 𝑼𝑺𝑬𝑹𝑩𝑶𝑻 ⚝ ΣRROR--------ㅤ
